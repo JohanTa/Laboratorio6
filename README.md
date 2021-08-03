@@ -61,9 +61,11 @@ Comprobar el teorema de máxima tranferencia de potencia mediante la resolución
 4.5. Respuesta a interrogantes.
 
 ¿Cuál fue la potencia máxima en RL? __________________Watts?
+
 La maxima potencia en RL fue de 46.51 mW esto nos quiere decir que la resistencia interna de la fuente de alimentacion de 15 voltios puede ser aproximandamente del valor que obtuvo la resistencia RL
 
 ¿Para qué valor de RL se obtiene la MTP? _______________ Ω
+
 La MTP se obtiene con el valor de la resistencia de 1 kΩ esto podemos decir que dicha resistencia es de igual valor o muy proximo a la resistencia interna de la fuente de alimentacion C.D
 
 
