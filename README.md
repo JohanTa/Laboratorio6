@@ -106,6 +106,8 @@ Comprobar el teorema de máxima tranferencia de potencia mediante la resolución
 
 4.5. Respuesta a interrogantes.
 
+![tabla 1](https://user-images.githubusercontent.com/85522189/127955227-07df6c02-542f-4581-a4af-e6c29220e86f.PNG)
+
 ¿Cuál fue la potencia máxima en RL? __________________Watts?
 
 La maxima potencia en RL fue de 46.51 mW esto nos quiere decir que la resistencia interna de la fuente de alimentacion de 15 voltios puede ser aproximandamente del valor que obtuvo la resistencia RL
