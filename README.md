@@ -43,39 +43,40 @@ Comprobar el teorema de máxima tranferencia de potencia mediante la resolución
 
     2.- Resistencia de 470 ohm.
     
-    ![470](https://user-images.githubusercontent.com/81887698/127953609-8a18d0a2-ba96-4421-acb1-5cdf7958ad2c.PNG)
+![4 7k](https://user-images.githubusercontent.com/81887698/127954003-bee6b058-0a30-48a8-95c2-c13cd353b9e1.PNG)
+
 
     3.-Resistencia de 680 ohm.
     
-    ![680](https://user-images.githubusercontent.com/81887698/127953646-5901d5ae-3b72-4eba-826e-03fb7dcdfdf4.PNG)
+ ![680](https://user-images.githubusercontent.com/81887698/127953646-5901d5ae-3b72-4eba-826e-03fb7dcdfdf4.PNG)
 
     4.-Resistencia de 820 ohm.
     
-    ![820](https://user-images.githubusercontent.com/81887698/127953687-b1c2a45f-8722-4514-acf2-25eedeb58a4a.PNG)
+   ![820](https://user-images.githubusercontent.com/81887698/127953687-b1c2a45f-8722-4514-acf2-25eedeb58a4a.PNG)
 
     5.-Resistencia de 1kohm.
     
-    ![1k](https://user-images.githubusercontent.com/81887698/127953718-d0fac3cc-6614-4723-b758-5ffb88a4b604.PNG)
+   ![1k](https://user-images.githubusercontent.com/81887698/127953718-d0fac3cc-6614-4723-b758-5ffb88a4b604.PNG)
     
     6.-Resistencia de 1.5 ohm.
     
-    ![1 5k](https://user-images.githubusercontent.com/81887698/127953764-de56b930-d3df-45fe-bcab-b3a08181022f.PNG)
+   ![1 5k](https://user-images.githubusercontent.com/81887698/127953764-de56b930-d3df-45fe-bcab-b3a08181022f.PNG)
     
     7.-Resistencia de 1.8 kohm.
     
-    ![1 8k](https://user-images.githubusercontent.com/81887698/127953791-ea031aac-2ec5-43eb-93a4-be976ccbbb92.PNG)
+   ![1 8k](https://user-images.githubusercontent.com/81887698/127953791-ea031aac-2ec5-43eb-93a4-be976ccbbb92.PNG)
     
     8.-Resistencia de 2.20 ohm.
     
-    ![2 2 k](https://user-images.githubusercontent.com/81887698/127953820-6bcc7e0e-82e2-46b3-b54b-53e8c194220f.PNG)
+   ![2 2 k](https://user-images.githubusercontent.com/81887698/127953820-6bcc7e0e-82e2-46b3-b54b-53e8c194220f.PNG)
     
     9.-Resistencia de 3.90 kohm.
     
-    ![390k](https://user-images.githubusercontent.com/81887698/127953867-a18f4f90-ec33-4eb0-a41c-52b51a753730.PNG)
+   ![390k](https://user-images.githubusercontent.com/81887698/127953867-a18f4f90-ec33-4eb0-a41c-52b51a753730.PNG)
     
     10.-Resistencia de 4.70 kohm.
     
-    ![4 7k](https://user-images.githubusercontent.com/81887698/127953913-e4824c83-bf7a-49d9-adb5-84760d015c3f.PNG)
+   ![4 7k](https://user-images.githubusercontent.com/81887698/127953913-e4824c83-bf7a-49d9-adb5-84760d015c3f.PNG)
 
 
 
