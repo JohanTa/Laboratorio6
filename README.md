@@ -120,6 +120,8 @@ La MTP se obtiene con el valor de la resistencia de 1 kΩ esto podemos decir que
 
 5.Video:
 
+https://youtu.be/xP8jKrv33Sk
+
 6.CONCLUSIONES
 
 -El teorema de máxima tranferencia de potencia es de gran utilidad para analizar circuitos que tengan dos o más Fuentes ya que al analizar puente por Puente del Análisis resulta más sencillo de realizar
