@@ -24,6 +24,16 @@ Comprobar el teorema de máxima tranferencia de potencia mediante la resolución
 
 3.EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
+3.1. Revisar el tema a tratar con las respectivas indicaciones dadas por el docente y ver el material de experimentacion, en este caso es un circuito resistivo mixto donde nos indica que tenemos que comprobar el Teorema teorema de máxima tranferencia de potencia.
+
+![laboratorio 6-1](https://user-images.githubusercontent.com/81887698/127946607-28919f84-b4b2-4c16-ad81-b2b04c3f148c.PNG)
+
+
+3.2. Con la lectura previa y la revision de lo que debemos realizar procederemos a ver los componentes que vamos a usar para poder armar el circuito.
+
+![laboratorio 6-2](https://user-images.githubusercontent.com/81887698/127946612-7a3650a8-9599-4892-b355-922bd0747e36.PNG)
+
+
 4.RESOLUCION DEL LABORATORIO EN FORMA MATEMATICA
 
 5.Video:
