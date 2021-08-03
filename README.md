@@ -106,7 +106,8 @@ Comprobar el teorema de máxima tranferencia de potencia mediante la resolución
 
 4.5. Respuesta a interrogantes.
 
-![tabla 1](https://user-images.githubusercontent.com/85522189/127955227-07df6c02-542f-4581-a4af-e6c29220e86f.PNG)
+![tabla 1](https://user-images.githubusercontent.com/85522189/128024022-cbbc845e-b742-4d89-88df-b16c955d4e96.PNG)
+
 
 ¿Cuál fue la potencia máxima en RL? __________________Watts?
 
