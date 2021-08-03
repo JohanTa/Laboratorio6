@@ -21,6 +21,7 @@ Comprobar el teorema de máxima tranferencia de potencia mediante la resolución
 
 2.Marco Teorico
 
+![1](https://user-images.githubusercontent.com/85522189/127953054-c6af9b6c-d7fb-44dc-93f7-040855584bae.PNG)
 
 3.EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
